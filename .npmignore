@@ -1,0 +1,7 @@
+test
+node_modules
+
+.gitignore
+tsconfig.json
+index.d.mts.map
+package-lock.json

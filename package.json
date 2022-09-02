@@ -1,0 +1,32 @@
+{
+  "name": "emitter",
+  "version": "1.0.0",
+  "description": "A NodeJS like environment agnostic event emitter",
+  "author": "Sheraz Ahmed",
+  "main": "index.mjs",
+  "type": "module",
+  "types": "index.d.mts",
+  "typings": "index.d.mts",
+  "typescript": {
+    "definition": "index.d.mts"
+  },
+  "repository": "https://github.com/sheryy/emitter.git",
+  "scripts": {
+    "build": "npx tsc && npm link",
+    "prepublish": "npx tsc"
+  },
+  "keywords": [
+    "event",
+    "events",
+    "trigger",
+    "observer",
+    "listener",
+    "emitter",
+    "pubsub",
+    "EventEmitter"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
