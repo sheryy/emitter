@@ -6,7 +6,7 @@
       "target": "ES2022",
       "declaration": true,
       "noImplicitAny": true,
-      "declarationMap": true,
+      "declarationMap": false,
       "emitDeclarationOnly": true,
     }
   }
