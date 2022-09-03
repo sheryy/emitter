@@ -1,6 +1,6 @@
 {
   "name": "agnostic-emitter",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "A NodeJS like environment agnostic event emitter",
   "author": "Sheraz Ahmed",
   "main": "index.mjs",
